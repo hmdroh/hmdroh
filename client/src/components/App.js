@@ -1,5 +1,5 @@
 import React, { Component, Route } from "react";
-import logo from "../logo.svg";
+import logo from "../hmd.svg";
 import "./App.css";
 
 class Application1 extends Component {
